@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
-      "name": "miku-KernelSU",
-      "repo": "https://github.com/PhamtomK12/kernel_xiaomi_odin",
-      "branch": "TDA",
-      "device": "odin"
+      "name": "BETAVO-KernelSU",
+      "repo": "https://github.com/zainuye/android_kernel_xiaomi_onclite",
+      "branch": "lineage-22.2",
+      "device": "onclite"
     },
     "withKernelSU": true,
     "toolchains": [
